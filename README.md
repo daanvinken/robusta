@@ -98,7 +98,7 @@ Interested? Learn more about Robusta
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## 📑 License
-Robusta is distributed under the MIT License. See [LICENSE.md](https://github.com/robusta-dev/robusta/blob/master/LICENSE) for more information.
+Robusta is distributed under the MIT License. See [LICENSE.md](https://github.com/robusta-dev/robusta/blob/master/LICENSE) for more information. 
 
 ## 🕐 Stay up to date
 We add new features regularly. Stay up to date by watching us on GitHub.
